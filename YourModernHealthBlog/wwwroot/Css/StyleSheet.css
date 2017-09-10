@@ -1,0 +1,15 @@
+﻿#Headline {
+    text-align: center;
+}
+
+#Buttons {
+    margin: auto;
+    width: 50%;
+    align-content: center;
+}
+
+    #Buttons button {
+        text-align: center;
+        
+    }
+
